@@ -1,0 +1,8 @@
+# virtual environment
+venv
+
+# pycache
+__pycache__
+
+# data
+data.db
