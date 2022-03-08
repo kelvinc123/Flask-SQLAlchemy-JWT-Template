@@ -1,0 +1,1 @@
+# Flask-SQLAlchemy-JWT-Template
